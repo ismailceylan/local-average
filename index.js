@@ -1,1 +1,1 @@
-export { default as localAverage } from "./lib/local-average";
+export { default } from "./lib/local-average";
