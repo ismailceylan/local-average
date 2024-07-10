@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.5](https://github.com/ismailceylan/local-average/compare/v0.0.4...v0.0.5) (2024-07-10)
+
+
+### Features
+
+* **methods:** mode support ([b7c9f02](https://github.com/ismailceylan/local-average/commit/b7c9f028e6dd44d03faefd2b8b32bb4216bb2530))
+
 ### [0.0.4](https://github.com/ismailceylan/local-average/compare/v0.0.3...v0.0.4) (2024-07-10)
 
 
