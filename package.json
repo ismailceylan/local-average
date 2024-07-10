@@ -1,10 +1,25 @@
 {
   "name": "@iceylan/local-average",
   "version": "0.0.1",
+  "type": "module",
+  "files": [
+    "dist"
+  ],
   "description": "Accumulates a certain amount of data in the local storage area and produces the arithmetic average of them when requested.",
-  "main": "index.js",
+  "main": "./dist/local-average.umd.cjs",
+  "module": "./dist/local-average.js",
+  "exports": {
+    ".": {
+      "import": "./dist/local-average.js",
+      "require": "./dist/local-average.umd.cjs"
+    }
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "release": "standard-version",
+    "publish-package": "npm publish --access=public"
   },
   "repository": {
     "type": "git",
@@ -20,5 +35,8 @@
   "bugs": {
     "url": "https://github.com/ismailceylan/local-average/issues"
   },
-  "homepage": "https://github.com/ismailceylan/local-average#readme"
+  "homepage": "https://github.com/ismailceylan/local-average#readme",
+  "devDependencies": {
+    "vite": "^5.3.3"
+  }
 }
