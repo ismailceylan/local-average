@@ -1,0 +1,24 @@
+{
+  "name": "@iceylan/local-average",
+  "version": "0.0.1",
+  "description": "Accumulates a certain amount of data in the local storage area and produces the arithmetic average of them when requested.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ismailceylan/local-average.git"
+  },
+  "keywords": [
+    "local storage",
+    "storage",
+    "average"
+  ],
+  "author": "Ismail Ceylan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ismailceylan/local-average/issues"
+  },
+  "homepage": "https://github.com/ismailceylan/local-average#readme"
+}
