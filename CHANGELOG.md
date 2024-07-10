@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.4](https://github.com/ismailceylan/local-average/compare/v0.0.3...v0.0.4) (2024-07-10)
+
+
+### Features
+
+* **methods:** harmonic mean support ([9ed2f37](https://github.com/ismailceylan/local-average/commit/9ed2f37c511910d8ae6a4a26fe062843eac6569c))
+* **methods:** median support ([550f5e2](https://github.com/ismailceylan/local-average/commit/550f5e28c34614c6b915ec4b7017711d719daaf9))
+
 ### [0.0.3](https://github.com/ismailceylan/local-average/compare/v0.0.2...v0.0.3) (2024-07-10)
 
 
