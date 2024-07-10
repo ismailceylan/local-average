@@ -1,3 +1,4 @@
 import localAverage from ".";
 
-console.log(localAverage);
+const [ average, add ] = localAverage( "foo", { sampleSize: 50, method: "" });
+
