@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.3](https://github.com/ismailceylan/local-average/compare/v0.0.2...v0.0.3) (2024-07-10)
+
+
+### Features
+
+* **methods:** arithmetic mean support ([702b83c](https://github.com/ismailceylan/local-average/commit/702b83ca5b33b51507d0a13aff495f61a459a387))
+* **methods:** geometric mean support ([1088491](https://github.com/ismailceylan/local-average/commit/10884910207d10f742f616f5faeca92e24cb33fc))
+* **methods:** variance support ([13fb351](https://github.com/ismailceylan/local-average/commit/13fb351b33f1c99b524fe910dab97d68ff609a11))
+
 ### 0.0.2 (2024-07-10)
 
 
