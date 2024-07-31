@@ -12,6 +12,9 @@
     ".": {
       "import": "./dist/local-average.js",
       "require": "./dist/local-average.umd.cjs"
+    },
+    "./uncompiled": {
+      "import": "./lib/local-average.js"
     }
   },
   "scripts": {
