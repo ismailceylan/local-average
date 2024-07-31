@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.6](https://github.com/ismailceylan/local-average/compare/v0.0.5...v0.0.6) (2024-07-31)
+
+
+### Bug Fixes
+
+* reflect newly added values to runtime ([bc7e24f](https://github.com/ismailceylan/local-average/commit/bc7e24ff1f9627f683b923a10ca232c6ec4fb995))
+
 ### [0.0.5](https://github.com/ismailceylan/local-average/compare/v0.0.4...v0.0.5) (2024-07-10)
 
 
